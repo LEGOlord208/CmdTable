@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/legolord208/gtable"
+	"github.com/jD91mZM2/gtable"
 	"os"
 	"strings"
 )
